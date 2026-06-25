@@ -22,11 +22,6 @@
 	width:100px;
 	background-color:green;
 }
-.box-4{
-	height:100px;
-	width:100px;
-	background-color:green;
-}
 .holder{
 	display:flex;
 	justify-content:space-between;
