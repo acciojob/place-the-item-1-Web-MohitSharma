@@ -27,15 +27,8 @@
 	width:100px;
 	background-color:green;
 }
-.first-container{
+.holder{
 	display:flex;
 	justify-content:space-between;
-	flex-wrap:wrap;
-	margin-bottom:60px;
-}
-.second-container{
-	display:flex;
-	justify-content:space-between;
-	gap:10px;
 	flex-wrap:wrap;
 }
